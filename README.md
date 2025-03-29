@@ -2,6 +2,8 @@
 
 A type-safe backend API enabling authenticated users to create, manage, and share dynamic forms, while allowing public users to fill and submit these forms securely.
 
+### Live API link: https://kraft-forms-production.up.railway.app/api
+
 ## Tech Stack
 
 - **Language:** TypeScript
