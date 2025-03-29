@@ -56,7 +56,7 @@ kraft-forms/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/kraft-forms.git
+   git clone https://github.com/shadan-asad/kraft-forms.git
    cd kraft-forms
    ```
 
@@ -93,8 +93,6 @@ npm run dev
 ```
 
 ## API Endpoints
-
-All API endpoints are now available under the `/api` prefix.
 
 ### Authentication Routes
 
@@ -146,7 +144,3 @@ Run tests with:
 ```
 npm test
 ```
-
-## License
-
-This project is licensed under the ISC License. 
